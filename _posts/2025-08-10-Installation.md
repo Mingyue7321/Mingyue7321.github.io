@@ -8,7 +8,7 @@ We will also touch on installing Linux distribution Ubuntu on the VM.
 
 ### 1. Virtual Machine(VM) installation
 
-![Alt text describing the image](/pic/Picture1.png)
+![Alt text describing the image](_pic/Picture1.png)
 
 #### Some T-SQL Code
 
